@@ -1,0 +1,24 @@
+{
+  "name": "slackbot-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@slack/bolt": "^3.3.0",
+    "node": "^16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumpybuns/Slackbot-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumpybuns/Slackbot-be/issues"
+  },
+  "homepage": "https://github.com/jumpybuns/Slackbot-be#readme"
+}
